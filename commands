@@ -1,0 +1,5 @@
+cd command is used to change directories
+
+ls command is used to list the files inside the directories
+
+ls -lrt command is used to list the last added or modefied file
